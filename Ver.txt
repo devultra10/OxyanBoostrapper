@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "2.1",
-    "SoftwareUrl":"https://github.com/devultra10/Psd/releases/download/PsdService/PSD.zip",
+    "SoftwareVersion": "Beta_V1.34",
+    "SoftwareUrl":"https://github.com/devultra10/Oxyan/releases/download/OxyanRelease/Beta_V1.34.zip",
     "Status":"True",
-    "Changelog":"[+] Updated!"
+    "Changelog":"[+] Fixed, Added Bootstrapper"
 }
