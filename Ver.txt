@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "Beta_V1.34",
-    "SoftwareUrl":"https://github.com/devultra10/Oxyan/releases/download/OxyanRelease/Beta_V1.34.zip",
+    "SoftwareVersion": "Beta_V1.35",
+    "SoftwareUrl":"https://github.com/devultra10/Oxyan/releases/download/OxyanRelease/Oxyan.zip",
     "Status":"True",
-    "Changelog":"[+] Fixed, Added Bootstrapper"
+    "Changelog":"[+] Updated To Version-a9a5d0b275a34ffb"
 }
